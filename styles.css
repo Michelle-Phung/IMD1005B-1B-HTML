@@ -1,0 +1,6 @@
+body {
+    background-color: palevioletred;
+
+    /* Gives more room at the bottom to scroll */
+    margin-bottom: 100vh;
+}
